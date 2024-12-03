@@ -10,10 +10,10 @@ void main() {
   // countLetters("successful");
   // countLetters(" irresistibility");
 
-  countLettersList("mississippi");
+  countLettersList("mississippi"); 
+  print("object");
   print("="*20);
   countLettersList("successful");
-  print("="*20);
   countLettersList("irresistibility");
 
 
